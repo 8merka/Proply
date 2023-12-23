@@ -1,0 +1,27 @@
+.communityBlock {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+.community__image {
+    width: 21.25rem;
+    height: 26.875rem;
+}
+
+.name {
+    color: #111;
+    font-family: Montserrat;
+    font-size: 2.25rem;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.styleTextComm{
+    color: #A7A7A7;
+    font-family: Montserrat;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 500;
+}

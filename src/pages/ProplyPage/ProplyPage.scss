@@ -1,0 +1,36 @@
+.proplyPage__body__main__container {
+    display: flex;
+    flex-direction: row;
+    font-family: Montserrat;
+
+}
+
+.proplyPage__body__main__container__textContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40.6rem;
+    gap: 1.88rem;
+    padding-left: 4rem;
+}
+
+.proplyPage__body__main__container__textContainer__proply {
+    color: #000;
+    font-size: 4.375rem;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+}
+
+.proplyPage__body__main__container__textContainer__step {
+    color: #A3A3A3;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 500;
+    text-align: left;
+}
+
+.proplyPage__body__main__container__img__picture{
+    width: 48rem;
+    height: 49rem;
+}

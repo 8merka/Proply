@@ -1,0 +1,27 @@
+.profilePage__body__main__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.profilePage__body__main__container__photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: cadetblue;
+}
+
+.estates_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.profilePage__body__main__container__date{
+    font-family: Montserrat;
+    // text-align: left;
+}
+
+p{
+    text-align: left;
+    font-weight: bolder;
+}

@@ -1,0 +1,27 @@
+.statistick {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.statistick-block {
+  width: calc(25% - 1px);
+  height: 200px;
+  border-right: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 740px) {
+  .statistick-block {
+    width: calc(50% - 1px);
+  }
+}
+
+@media (max-width: 340px) {
+  .statistick-block {
+    width: calc(100% - 1px);
+  }
+}

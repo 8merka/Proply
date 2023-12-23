@@ -1,0 +1,64 @@
+.information-block {
+  display: flex;
+  align-items: center;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 120px;
+
+}
+
+.info-image {
+  width: 50%;
+  height: auto;
+}
+
+.text-blocks {
+  width: 60%;
+
+}
+
+.first_type {
+  flex-direction: row
+}
+
+.second_type {
+  flex-direction: row-reverse
+}
+
+
+.styleImagePeople {
+  width: 37rem;
+  height: 37rem;
+}
+
+.styleImageHouses {
+  width: 35rem;
+  height: 30rem;
+}
+
+.styleImageHouse2 {
+  width: 21.4375rem;
+  height: 35.4375rem;
+}
+
+.proplyPage__body__main__secondBlock__infoBlock {
+  gap: 5.75rem
+}
+
+.styleImageVilage {
+  width: 38.0625rem;
+  height: 30.5rem;
+}
+
+.styleImageMainCons {
+  width: 28.25rem;
+  height: 38.5rem;
+  padding: 0 4rem;
+}
+
+.community__main__container__cardSecond__info{
+  color: #000;
+  font-family: Montserrat;
+  font-style: normal;
+  
+}
