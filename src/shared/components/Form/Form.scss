@@ -1,0 +1,35 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+}
+.registration{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 860px;
+}
+
+
+.addHousePage__body__formContainer__container__firstForm{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2%;
+    flex-wrap: wrap;
+}
+@media (max-width: 740px) {
+    .registration{
+        width: 400px;
+    }
+  }
+  
+  @media (max-width: 340px) {
+    .registration{
+        width: 300px;
+    }
+    .form{
+        width: 300px;
+    }
+  }
