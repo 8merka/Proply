@@ -1,0 +1,12 @@
+.estatePage__body__main{
+    display: flex;
+    // align-items: center;
+    justify-content: center;
+}
+
+.estatePage__body__container__select{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    flex-wrap: wrap;
+}
