@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="communityBlock test-style"
+>
+  <img
+    alt="community"
+    className="community__image test-image-style"
+    src="test-image.jpg"
+  />
+  <div
+    className="community__textBlock"
+  >
+    <p
+      className="name test-name-style"
+    >
+      Test Name
+    </p>
+    <p
+      className="texComm test-text-style"
+    >
+      Test Text
+    </p>
+  </div>
+</div>
+`;

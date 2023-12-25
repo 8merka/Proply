@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="textBlocInInformationHouse__block test-style"
+>
+  <h1
+    className="textBlocInInformationHouse__block__type"
+  >
+    Test Type
+  </h1>
+  <p
+    className="textBlocInInformationHouse__block__price"
+  >
+    1000
+  </p>
+  <p
+    className="textBlocInInformationHouse__block__description"
+  >
+    Test Description
+  </p>
+  <div
+    className="textBlocInInformationHouse__block__container"
+  >
+    <p
+      className="textBlocInInformationHouse__block__container__carSpace"
+    >
+      Car places:
+      2
+    </p>
+    <p
+      className="textBlocInInformationHouse__block__container__bedrooms"
+    >
+      Bedrooms:
+      3
+    </p>
+    <p
+      className="textBlocInInformationHouse__block__container__bathrooms"
+    >
+      Bathrooms:
+      1
+    </p>
+  </div>
+  <p
+    className="textBlocInInformationHouse__block__adress"
+  >
+    Test Address
+  </p>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Copyright renders correctly 1`] = `
+<div
+  className="copyright"
+>
+  <div
+    className="copyright__text style"
+  >
+    word
+  </div>
+</div>
+`;

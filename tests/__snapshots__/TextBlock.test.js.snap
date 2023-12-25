@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextBlock renders correctly 1`] = `
+<div
+  className="text-block style"
+>
+  <h1
+    className="title style"
+  >
+    title
+  </h1>
+  <p
+    className="text style"
+  >
+    text
+  </p>
+</div>
+`;

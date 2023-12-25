@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<form
+  className="form"
+>
+  <div
+    className="input"
+  >
+    <input
+      className="input__input undefined"
+      type="text"
+      value="Test 1"
+    />
+  </div>
+  <div
+    className="input"
+  >
+    <input
+      className="input__input undefined"
+      type="text"
+      value="Test 2"
+    />
+  </div>
+</form>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input renders correctly 1`] = `
+<div
+  className="input"
+>
+  <input
+    className="input__input style"
+    onChange={[Function]}
+    placeholder="Placeholder"
+    value="Value"
+  />
+</div>
+`;

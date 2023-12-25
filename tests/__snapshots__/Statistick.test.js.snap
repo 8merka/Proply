@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="statistick"
+>
+  <div
+    className="statistick-block statistick-block-0"
+  >
+    <div
+      className="text-block text-block_statistick"
+    >
+      <h1
+        className="title title_statistick"
+      >
+        Title 1
+      </h1>
+      <p
+        className="text text_statistick"
+      >
+        Text 1
+      </p>
+    </div>
+  </div>
+  <div
+    className="statistick-block statistick-block-1"
+  >
+    <div
+      className="text-block text-block_statistick"
+    >
+      <h1
+        className="title title_statistick"
+      >
+        Title 2
+      </h1>
+      <p
+        className="text text_statistick"
+      >
+        Text 2
+      </p>
+    </div>
+  </div>
+  <div
+    className="statistick-block statistick-block-2"
+  >
+    <div
+      className="text-block text-block_statistick"
+    >
+      <h1
+        className="title title_statistick"
+      >
+        Title 3
+      </h1>
+      <p
+        className="text text_statistick"
+      >
+        Text 3
+      </p>
+    </div>
+  </div>
+  <div
+    className="statistick-block statistick-block-3"
+  >
+    <div
+      className="text-block text-block_statistick"
+    >
+      <h1
+        className="title title_statistick"
+      >
+        Title 4
+      </h1>
+      <p
+        className="text text_statistick"
+      >
+        Text 4
+      </p>
+    </div>
+  </div>
+</div>
+`;

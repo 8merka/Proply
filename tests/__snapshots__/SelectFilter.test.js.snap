@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectFilter renders correctly 1`] = `
+<div
+  className="selectFilter__block style"
+>
+  <select
+    className="selectFilter__block__select"
+    onChange={[Function]}
+    value="0"
+  >
+    <option
+      className="selectFilter__block__select__optionName"
+      value="0"
+    >
+      Option 1
+    </option>
+    <option
+      className="selectFilter__block__select__optionFirst"
+      value="1"
+    >
+      Option 2
+    </option>
+    <option
+      className="selectFilter__block__select__optionSecond"
+      value="2"
+    >
+      Option 3
+    </option>
+    <option
+      className="selectFilter__block__select__optionThird"
+      value="3"
+    />
+    <option
+      className="selectFilter__block__select__optionFourth"
+      value="4"
+    />
+  </select>
+</div>
+`;
